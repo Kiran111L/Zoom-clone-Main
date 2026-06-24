@@ -1,6 +1,5 @@
 <a name="readme-top"></a>
 
-<<<<<<< HEAD
 # TogetherHub - Modern Video Collaboration Platform
 
 A modern video collaboration platform built with Next.js 15, React 19, Clerk Authentication, and Stream Video SDK. TogetherHub enables users to securely create, schedule, join, and manage online meetings with an intuitive and responsive interface.

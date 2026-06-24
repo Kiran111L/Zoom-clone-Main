@@ -96,6 +96,7 @@ zoom-clone/
   |- middleware.ts
   |- netlify.toml
   |- next.config.mjs
+  |- package-lock.json
   |- package.json
   |- postcss.config.mjs
   |- tsconfig.json
